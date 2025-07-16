@@ -1,4 +1,18 @@
 ## Hi there 👋
+## I am ruskaruma
+
+I am learning and working hands-on ML/DL systems.
+---
+
+## 🔧 Skills
+
+**Languages:** Python, C, C++, Bash  
+**Libraries:** PyTorch, TensorFlow, scikit-learn, Transformers, OpenCV  
+**Tools:** Git, FastAPI, Jupyter, VS Code  
+**Other:** Arduino, Edge Impulse, FAISS, Matplotlib, Seaborn
+
+---
+
 
 <!--
 **ruskaruma/ruskaruma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
