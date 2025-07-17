@@ -1,14 +1,9 @@
 ## 👋 Hello there! 
-
 ### Python | C/C++ | Machine Learning | Deep Learning | Data Science | Systems Programming
-
 Pre-final year engineering student voyaging through ML/DL, low-level systems, and math.  
 Currently focused on: LLMs, Multimodal AI Systems and building intelligent systems with **Python**, **PyTorch**, and **TensorFlow**  
-
 ### 🧑‍💻 🌟
 [[X]](https://x.com/ruskaruma08)   , [[Gmail]](mailto:ruskaruma.gg@gmail.com)  ,  [Website](https://ruskaruma.me/)
-
-
 
 ### A few of the tech stacks that I have learned over the years: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,8 +28,6 @@ Currently focused on: LLMs, Multimodal AI Systems and building intelligent syste
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-
 ![FAISS](https://img.shields.io/badge/FAISS-003366?style=flat&logo=meta&logoColor=white)
-
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=black) 
