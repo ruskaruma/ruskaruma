@@ -1,8 +1,7 @@
 ## Hi there 👋
 ## I am ruskaruma
 
-I am learning and working hands-on ML/DL systems.
----
+I am learning and working hands-on ML/DL systems
 
 ## 🔧 Skills
 
@@ -11,7 +10,6 @@ I am learning and working hands-on ML/DL systems.
 **Tools:** Git, FastAPI, Jupyter, VS Code  
 **Other:** Arduino, Edge Impulse, FAISS, Matplotlib, Seaborn
 
----
 
 
 <!--
