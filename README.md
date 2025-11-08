@@ -1,6 +1,6 @@
 # 👋 Greetings!
 
-### Python   C/C++  and getting started with RUST
+### Python   C/C++  and exploring RUST
 
 I'm a pre-final-year engineering student with a passion for Machine Learning, Deep Learning, low-level systems, and mathematics.  
 I spend most of my time diving deep into **mathematics**, experimenting with **language models**, and exploring new ways to design next-gen **database systems**.  
