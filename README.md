@@ -1,12 +1,10 @@
 # 👋 Greetings!
 
-### Python   C/C++  and exploring RUST
+I am a pre-final year electronics major working with math on language models and low-level systems. I am great with C++ and Python.
+I spend my free time on OSS contributions, and I am working on my own research projects, which I like.
 
-I'm a pre-final-year engineering student with a passion for Machine Learning, Deep Learning, low-level systems, and mathematics.  
-I spend most of my time diving deep into **mathematics**, experimenting with **language models**, and exploring new ways to design next-gen **database systems**.  
-Currently I'm busy contributing to **OSS** that I have used, and building intelligent systems with **Python**, **C/C++**, **PyTorch**, and **TensorFlow**, while also learning **Rust** to strengthen my systems programming skills or maybe to build stable **ML libraries** in Rust.
-
-### 🧑‍💻 🌟
+My best work so far is a custom attention and transformer kernel that I have written myself in C++, which isn't public yet because
+it is part of a research work. 
 
 [Twitter](https://x.com/ruskaruma08) | [Gmail](mailto:ruskaruma.gg@gmail.com) | [Website](https://ruskaruma.me/)
 
