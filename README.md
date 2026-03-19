@@ -1,3 +1,3 @@
 ## hello there 👋
 
-reach me at: [Email](mailto:ruskaruma.gg@gmail.com) 
+reach me at: ruskaruma.gg@gmail.com
