@@ -7,6 +7,10 @@ paper-cut film studio and a local reel editor.
 
 `ishaan.sinha10@gmail.com`
 
+<p align="center">
+  <img src="sun-pass.gif" width="720" alt="A cut-paper sun settling into the notch above a lake, drawn in code and animated on twos">
+</p>
+
 ---
 
 StoneDB-engine · C++ · an ACID-compliant embedded database
@@ -14,6 +18,5 @@ Helix · C++ · a semantic vector engine for similarity search
 khyberDB · C++20 · an in-memory store built for precision and speed
 trinetra · Rust · a self-hosted continuous VAPT agent
 inkfilm · Python · hand-drawn print films from Manim scenes
-vid-effect-skills · video, design and engineering skills, each with its source
 
 <sub>Latency is good. At least I can blame it on someone else.</sub>
